@@ -1,0 +1,1 @@
+# cheak-number-is-even-or-odd-without-useing-bitwise-modulas-opreater
